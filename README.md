@@ -1,2 +1,2 @@
-# Esperanza-de-vida-a-nivel-global-y-M-xico
-Proyecto final de ciencia de datos. 
+# Desarrollo interrumpido: La paradoja entre la mejora sanitaria y el estancamiento de la esperanza de vida en México (2000-2023)
+Como parte del proyecto final de Ciencia de Datos en CIMAT. Se analiza la base de datos \textit{Life Expectative and socio economic} proporcionada por el Word Bank Open Data, cuantificando los factores determinantes de la esperanza de vida en 174 países durante el periodo 2001 a 2019.
